@@ -11,4 +11,4 @@ clear : Clear every homework
 quit : Quit
 help : Help
 
-
+If u have an issue tell us about it in issues tab
