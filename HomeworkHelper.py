@@ -2,6 +2,8 @@ from os.path import exists
 
 savefile = "data.txt"
 
+test = 5
+
 
 def AfCommand(command=""):
     if exists(savefile) == True:
